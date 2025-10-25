@@ -1,0 +1,26 @@
+{
+  "symbol": "WXOC",
+  "address": "0x83915DE0d525Bb57a38cD97D9F508CABEAD6a0d5",
+  "overview": {
+    "en": "WXOC is the 1:1 bridged/wrapped representation of XOC on other chains (used for interoperability and exchange listings).",
+    "zh": "WXOC 是 XOC 在其他链上的 1:1 桥接/包装表示（用于互操作性和交换列表）。"
+  },
+  "email": "support@xone.org",
+  "website": "https://xone.org",
+  "whitepaper": "https://docs.xone.org/study/wiki",
+  "state": "NORMAL",
+  "published_on": "2025-03-06",
+  "initial_price":{
+        "USD":"0.15 USD"
+  },
+  "links": {
+    "blog": "https://docs.xone.org/blog",
+    "twitter": "https://x.com/xone_chain",
+    "telegram": "https://t.me/hello_xonechain",
+    "discord": "https://discord.gg/SzTaqpns",
+    "reddit": "https://www.reddit.com/r/XoneChain/",
+    "github": "https://github.com/hello-xone/",
+    "youtube": "https://www.youtube.com/@HelloXone",
+    "medium": "https://medium.com/@xone_chain"
+  }
+}
